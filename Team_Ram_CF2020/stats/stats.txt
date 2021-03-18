@@ -1,0 +1,28 @@
+N=2
+INFO:Statistics:
+INFO:Total frames: 114
+INFO:Useful: 61
+INFO:Dropped: 14
+INFO:Retransmitted: 53
+INFO:Efficiency: 0.535088
+N=3
+INFO:Statistics:
+INFO:Total frames: 88
+INFO:Useful: 49
+INFO:Dropped: 10
+INFO:Retransmitted: 39
+INFO:Efficiency: 0.556818
+N=4
+INFO:Statistics:
+INFO:Total frames: 160
+INFO:Useful: 85
+INFO:Dropped: 15
+INFO:Retransmitted: 75
+INFO:Efficiency: 0.53125
+N=5
+INFO:Statistics:
+INFO:Total frames: 49
+INFO:Useful: 27
+INFO:Dropped: 6
+INFO:Retransmitted: 22
+INFO:Efficiency: 0.55102

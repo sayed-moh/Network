@@ -1,0 +1,7 @@
+N=2
+INFO:Statistics:
+INFO:Total frames: 114
+INFO:Useful: 61
+INFO:Dropped: 14
+INFO:Retransmitted: 53
+INFO:Efficiency: 0.535088
